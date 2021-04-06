@@ -1,16 +1,9 @@
-# the_battle
+# Projet the-battle
+Dépot git : https://github.com/quentinMlvl/the-battle
 
-A new Flutter project.
+# By
+- Quentin Malavielle : quentin.malavielle@gmail.com
+- Alex DE SOUZA : alexds2000@outlook.fr
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Remarques
+- Lors de la suppression il se peut que celle ne se fasse si vous n'avez pas changé de page entre l'ajout et la suppression du personnage (Bizarre mais nous ne savons pas pourquoi) ...
